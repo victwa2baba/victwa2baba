@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victor-engine Know as Victor Tounaregha.
+- 👋 Hi, I’m @victor-engine Known as Victor Tounaregha.
 - 👀 I’m interested in Science, Engineering and Tech.
 - 🌱 I’m currently learning Html, CSS and Java Script
 - 💞️ I’m looking to collaborate on my next website.
