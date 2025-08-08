@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Victor Tounaregha (@victwa2baba)
 
-### I'm a passionate **Software Engineer** who thrives on building engaging and efficient web applications.
+I'm a passionate **Software Engineer** who thrives on building engaging and efficient web applications.
 
 ## 🚀 About Me
 
