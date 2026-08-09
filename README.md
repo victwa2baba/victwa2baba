@@ -1,21 +1,40 @@
-# 👋 Hi there! I'm Victor Tounaregha (@victwa2baba)
+# 👋 Hi, I'm Victor Tounaregha
 
-I'm a passionate **Software Engineer** who thrives on building engaging and efficient web applications.
+**Frontend & Software Engineer** | React • Next.js • Nuxt.js • Node.js
 
-## 🚀 About Me
+I build high-performance, responsive, and visually compelling web applications with a strong focus on clean architecture, intuitive UI/UX design, and smooth user interactions. 
 
-- 🔧 Skilled in **React**, **Tailwind CSS**, **Bootstrap**, **Node.js**, and core web technologies like **HTML**, **CSS**, and **JavaScript**.
-- 🧠 Constantly learning and exploring new tools in the **Engineering and Tech** space.
-- 🛠️ Experienced with **Git**, **GitHub**, and developer tools like **VS Code**.
-- 🌍 Based in Nigeria, collaborating globally.
+---
 
-## 📫 Let's Connect!
+### 🚀 Technical Skills
 
-- 📧 Email: [vtounaregha@gmail.com](mailto:vtounaregha@gmail.com)  
-- 💬 WhatsApp: [Chat with me](https://api.whatsapp.com/send?phone=2347016007224&text=%F0%9F%98%80%20chat%20me%20up%20on%20WhatsApp)
+* **Frontend:** React, Next.js, Nuxt.js, Vue, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap, HTML5, CSS3/SASS
+* **Backend & Databases:** Node.js, Express, Supabase, REST APIs
+* **Developer Tools & Workflow:** Git, GitHub, VS Code, CI/CD, Vite
+* **Core Strengths:** Responsive Web Design, Web Performance Optimization, Component-Driven Development, System Integration
 
+---
 
-<!---
-victwa2baba/victwa2baba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Featured Focus Areas
+
+* **Modern Web Frameworks:** Building server-rendered and statically generated applications with Next.js and Nuxt.js.
+* **UI/UX Precision:** Translating complex layouts into pixel-perfect, accessible design systems using Tailwind CSS.
+* **Interactive Web:** Exploring full-stack integration with Supabase and interactive 3D web applications.
+
+---
+
+### 📊 GitHub Stats
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victwa2baba&show_icons=true&theme=radial&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victwa2baba&layout=compact&theme=radial&hide_border=true)
+
+---
+
+### 📫 Get in Touch
+
+* **Email:** [vtounaregha@gmail.com](mailto:vtounaregha@gmail.com)
+* **WhatsApp:** [Chat on WhatsApp](https://api.whatsapp.com/send?phone=2347016007224&text=Hello%20Victor,%20I'd%20like%20to%20connect!)
+* **Location:** Nigeria *(Open to Remote & Global Opportunities)*
+
 You can click the Preview link to take a look at your changes.
 --->
