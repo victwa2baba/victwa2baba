@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victor Joseph Tounaregha
 
-**Frontend & Software Engineer** | React • Next.js • Nuxt.js • Node.js
+**Software Engineer** | React • Next.js • Nuxt.js • Node.js, Express.js
 
 I build high-performance, responsive, and visually compelling web applications with a strong focus on clean architecture, intuitive UI/UX design, and production-ready responsiveness.
 
